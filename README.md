@@ -1,4 +1,4 @@
-# Mandelbrot Set Visualization
+# Projeto Mandelbrot
 
 Este repositório contém um projeto para a visualização do Conjunto de Mandelbrot usando Python e uma biblioteca dinâmica (DLL) em C++ para calcular os pontos do conjunto. O projeto inclui os arquivos necessários para compilar a DLL, além de um script Python para gerar e exibir as imagens.
 
@@ -70,12 +70,6 @@ O script `gui.py` carrega a DLL e utiliza o algoritmo para gerar imagens do Conj
        ```bash
        make study3
        ```
-
-4. **Limpeza**:
-   - Não há arquivos temporários a serem limpos, mas você pode executar:
-     ```bash
-     make clean
-     ```
 
 ## Observações
 
