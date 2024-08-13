@@ -1,5 +1,12 @@
 # Projeto Mandelbrot
 
+**Integrantes:**
+
+- **Leonardo Braga**
+- **Rafael Freitas**
+
+---
+
 Este repositório contém um projeto para a visualização do Conjunto de Mandelbrot usando Python e uma biblioteca dinâmica (DLL) em C++ para calcular os pontos do conjunto. O projeto inclui os arquivos necessários para compilar a DLL, além de um script Python para gerar e exibir as imagens.
 
 ## Estrutura do Repositório
