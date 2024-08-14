@@ -1,6 +1,5 @@
 PYTHON = python
 PIP = pip
-
 SCRIPT = gui.py
 DLL_PATH = mandelbrot/x64/Release/mandelbrot.dll
 

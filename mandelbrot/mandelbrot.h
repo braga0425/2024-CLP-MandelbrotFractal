@@ -3,4 +3,3 @@
 #else
 #define DLL __declspec(dllimport)
 #endif // MANDELBROT_EXPORTS
-
